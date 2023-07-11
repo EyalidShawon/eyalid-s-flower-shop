@@ -1,0 +1,38 @@
+header{
+ background: rgba(229, 84, 115, 0.10);;
+}
+
+.been{
+    padding: 30px 30px 30px 110px;
+    display: flex;
+    align-items: center;
+}
+.been .been-pf{
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0;
+}
+.been-pri{
+    border-radius: 5px;
+    background: #E55473;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px 20px 43px;
+}
+.been-cls{
+    display: flex;
+    font-size: 60px;
+    font-weight: 700;
+    font-family: 'lato',sans-serif;
+    font-family: 'open Sans', sans-serif;
+}
+.been-content{
+    margin-right: 150px;
+}
+.been-pera{
+    display: flex;
+    font-family: 'lato';
+    color: rgba(77, 67, 67, 0.6);
+}
