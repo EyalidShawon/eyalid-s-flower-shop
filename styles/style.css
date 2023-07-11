@@ -67,6 +67,7 @@ header{
 .not-deal{
     font-family: 'lato',sans-serif;
     font-family: 'open Sans', sans-serif;
+    font-size: 30px;
 
 }
 .para-div{
@@ -85,7 +86,9 @@ header{
 .insta-one{
     font-family: 'lato',sans-serif;
     font-family: 'open Sans', sans-serif;
+    font-size: 30px;
 }
+
 .img-div{
     width: 318px;
     height: 420px;
@@ -115,4 +118,29 @@ margin-top:100px ;
 }
 .rect-three{
     padding-right: 20px;
+}
+.background{
+    background-image: url('../imgs/Rectangle\ 9.png');
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    margin-left: 120px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.center{
+    text-align: center;
+    padding-top: 100px;
+   
+}
+.get{
+    font-family: 'lato',sans-serif;
+    font-family: 'open Sans', sans-serif;
+    font-size: 30px;
+}
+.enter-em{
+    padding: 20px 220px;
+    border: none;
+    border-radius: 8px;
+    
 }
