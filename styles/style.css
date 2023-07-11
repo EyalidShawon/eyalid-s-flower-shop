@@ -13,6 +13,9 @@ header{
     flex-shrink: 0;
     padding-left:50px ;
 }
+.been-para{
+    color: #827d7d;
+}
 .been-pri{
     border-radius: 5px;
     background: #E55473;
@@ -82,6 +85,7 @@ header{
 .pera-tag{
     text-align: center;
     align-items: center;
+    color:#827d7d;
 }
 .insta-one{
     font-family: 'lato',sans-serif;
@@ -142,5 +146,37 @@ margin-top:100px ;
     padding: 20px 220px;
     border: none;
     border-radius: 8px;
-    
+}
+.footer-cls{
+    background: #272727;
+    text-align: center;
+    padding: 70px;
+}
+.shop{
+    font-family: 'lato',sans-serif;
+    font-family: 'open Sans', sans-serif;
+}
+.flower-one{
+    color: #E55473;
+}
+.shop-one{
+    color: aliceblue;
+}
+.write-wh{
+    color: aliceblue;
+}
+.all-rights{
+    color: #575757;
+}
+.same-day{
+    color:#827d7d;
+}
+.fresh-flo{
+    color:#827d7d;
+}
+.free-sup{
+    color:#827d7d;
+}
+.it-is{
+    color:#827d7d;
 }
